@@ -3,7 +3,9 @@
     "module": "commonjs",
     "target": "es2017",
     "sourceMap": true,
-    "types": ["node"]
+    "types": ["node"],
+    "outDir": "dist",
+    "newLine": "LF"
   },
   "exclude": ["node_modules"]
 }
