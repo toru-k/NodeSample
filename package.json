@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/toru-k/NodeSample/issues"
   },
-  "homepage": "https://github.com/toru-k/NodeSample#readme"
+  "homepage": "https://github.com/toru-k/NodeSample#readme",
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
 }
